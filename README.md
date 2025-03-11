@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-🌱 JavaScript | Node.js | ASP.NET
+🌱 JavaScript | Node.js | ASP.NET 
 📫 How to reach me: ginayoung82@gmail.com.   
 💼 Work as Back-end Developer.   
